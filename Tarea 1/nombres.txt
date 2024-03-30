@@ -1,0 +1,3 @@
+Yair Cardenas, 202273579-1, 201 y programó el "Casino de Alimentación".
+Constanza Hidalgo, 202273617-8, 201 y programó la función uno, dos y cuatro de "Listas de la suerte".
+Marcelo Ramírez, 202273536-8, 201 y programó la función tres, cuatro y cinco de "Listas de la suerte".

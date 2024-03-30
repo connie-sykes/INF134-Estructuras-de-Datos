@@ -1,0 +1,16 @@
+  ___     _                       _          
+ |_ _|_ _| |_ ___ __ _ _ _ __ _ _ _| |_ ___ ___
+  | || ' |  _/ -_/ _` | '_/ _` | ' |  _/ -_(_-<
+ |___|_||_\__\___\__, |_| \__,_|_||_\__\___/__/
+                 |___/                         
+-----------------------------------------------------
+
+
+~Yair Cardenas, 	202273579-1, 201
+			Programó "LOGIN".
+
+~Constanza Hidalgo, 	202273617-8, 201
+			Implementacion TDA y testeo de funciones
+
+~Dávid Chavez, 		202273639-9, 200 
+			Implementacion de funciones PUSHCOMMAND, GET, TERMINATE y funciones varias del TDA

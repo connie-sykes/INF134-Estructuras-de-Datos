@@ -1,0 +1,5 @@
+4
+Pepito 1999-01-12 1
+Juanito 2000-12-10 0
+sinnombre 2012-20-01 1
+puntoycoma 2012-20-20 0
